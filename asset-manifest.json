@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:EmmanuelFame/task-tracker.git/static/css/main.eee8e883.css",
+    "main.js": "/git@github.com:EmmanuelFame/task-tracker.git/static/js/main.f9abb9ca.js",
+    "static/js/592.bdc4fad6.chunk.js": "/git@github.com:EmmanuelFame/task-tracker.git/static/js/592.bdc4fad6.chunk.js",
+    "index.html": "/git@github.com:EmmanuelFame/task-tracker.git/index.html",
+    "main.eee8e883.css.map": "/git@github.com:EmmanuelFame/task-tracker.git/static/css/main.eee8e883.css.map",
+    "main.f9abb9ca.js.map": "/git@github.com:EmmanuelFame/task-tracker.git/static/js/main.f9abb9ca.js.map",
+    "592.bdc4fad6.chunk.js.map": "/git@github.com:EmmanuelFame/task-tracker.git/static/js/592.bdc4fad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee8e883.css",
+    "static/js/main.f9abb9ca.js"
+  ]
+}
